@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "personal-website",
+  "name": "trivis-personal-website",
   "compatibility_date": "2026-04-14",
   "observability": {
     "enabled": true

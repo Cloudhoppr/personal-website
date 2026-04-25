@@ -1,6 +1,7 @@
 stitch_avian_developer_portfolio/
 dist/
 *.pdf
+RESUME.md
 
 # wrangler files
 .wrangler

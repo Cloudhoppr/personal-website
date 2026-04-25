@@ -1,7 +1,7 @@
 const navLinks = [
   { href: "#sighting", label: "The Sighting" },
-  { href: "#field-notes", label: "Field Notes" },
-  { href: "#experience-notes", label: "Experience Notes" },
+  { href: "#experience-notes", label: "Recent Sightings" },
+  { href: "#field-notes", label: "Featured Specimens" },
   { href: "#migration", label: "Migration" },
 ];
 
